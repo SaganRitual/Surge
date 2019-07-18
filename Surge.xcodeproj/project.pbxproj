@@ -542,11 +542,11 @@
 			};
 			buildConfigurationList = F8A1E1A419917A79009735E2 /* Build configuration list for PBXProject "Surge" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = F8A1E1A019917A79009735E2;
 			productRefGroup = F8A1E1AB19917A79009735E2 /* Products */;
